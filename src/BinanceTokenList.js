@@ -181,7 +181,7 @@ function SetBinanceTokenRows() {
         "perlin",
         "red-pulse",
         "pivx",
-        "penta",
+        "pnetwork",
         "poa-network",
         "polymath-network",
         "power-ledger",
